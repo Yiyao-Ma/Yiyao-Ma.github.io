@@ -1,0 +1,22 @@
+name: Real-time Monocular 2D and 3D Perception of Endoluminal Scenes for Controlling Flexible Robotic Endoscopic Instruments
+author: Ruofeng Wei, Kai Chen, Yui-Lun Ng, Yiyao Ma, Justin Di-Lang Ho, Hon-Sing Tong, Xiaomei Wang, Jing Dai, Ka-Wai Kwok, Qi Dou
+journal: IEEE Transactions on Robotics (T-RO)
+time: 2026
+paper_link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11429531
+picture: tro26.jpg
+
+name: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations
+author: Jianing Guo, Zhenhong Wu, Chang Tu, Yiyao Ma, Xiangqi Kong, Zhiqian Liu, Jiaming Ji, Shuning Zhang, Yuanpei Chen, Kai Chen, Qi Dou, Yaodong Yang, Xianglong Liu, Huijie Zhao, Weifeng Lv, Simin Li
+conference: International Conference on Learning Representations (ICLR)
+time: 2026
+paper_link: https://arxiv.org/abs/2510.00037
+project_link: https://github.com/gakakulicc/RobustVLA
+picture: iclr26.jpg
+
+name: Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning
+author: Yiyao Ma, Kai Chen, Zhongxiang Zhou, Zhuheng Song, Dongsheng Xie, Zelong Tan, Rong Xiong, Qi Dou
+conference: International Conference on Machine Learning (ICML)
+time: 2026
+paper_link: (coming soon)
+project_link: (coming soon)
+picture: icml26.jpg
